@@ -1,0 +1,14 @@
+D:\Dev\PdfExtractor\PdfExtractor\bin\Debug\net6.0\PdfExtractor.exe
+D:\Dev\PdfExtractor\PdfExtractor\bin\Debug\net6.0\PdfExtractor.deps.json
+D:\Dev\PdfExtractor\PdfExtractor\bin\Debug\net6.0\PdfExtractor.runtimeconfig.json
+D:\Dev\PdfExtractor\PdfExtractor\bin\Debug\net6.0\PdfExtractor.dll
+D:\Dev\PdfExtractor\PdfExtractor\bin\Debug\net6.0\PdfExtractor.pdb
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.AssemblyInfoInputs.cache
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.AssemblyInfo.cs
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.csproj.CoreCompileInputs.cache
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.dll
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\refint\PdfExtractor.dll
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.pdb
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\PdfExtractor.genruntimeconfig.cache
+D:\Dev\PdfExtractor\PdfExtractor\obj\Debug\net6.0\ref\PdfExtractor.dll
